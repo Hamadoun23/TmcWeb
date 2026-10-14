@@ -5,9 +5,9 @@
 
     /*-----------------------------------------------------------------------------------
 
-        Template Name: Toguna - Digital Agency HTML Template.
-        Author: Toguna
-        Support: #
+        Template Name: Faizen - Digital Agency HTML Template.
+        Author: RRDevs
+        Support: https://support.rrdevs.net
         Description: Digital Agency HTML Template.
         Version: 1.0
         Developer: Soukhin khan (https://github.com/Soukhinkhan)
@@ -422,7 +422,7 @@
     All Swiper Slide
   ========================================*/
 
-    // Toguna testimonial__carousel
+    // Faizen testimonial__carousel
     var swiperProject = new Swiper(".testimonial-4__slider", {
         slidesPerView: 1,
         spaceBetween: 50,
@@ -818,7 +818,7 @@
         },
     });
 
-    // Toguna-testimonial-2__slider
+    // Faizen-testimonial-2__slider
     var swiperProject = new Swiper(".testmonial2-slide-active", {
         slidesPerView: 2.5,
         spaceBetween: 30,
@@ -899,7 +899,7 @@
         });
     }
 
-    // toguna isotope js blog10
+    // faizen isotope js blog10
     var $grid = $('.grid').isotope({
         // options
         } );
@@ -915,7 +915,7 @@
         event.preventDefault();
         });
 
-    // Toguna home 1 video GSAP scroll animation start///////////////////////
+    // Faizen home 1 video GSAP scroll animation start///////////////////////
     function initAnimation() {
         if (window.innerWidth > 991) {
             let imageTl_8 = gsap.timeline({
@@ -942,7 +942,7 @@ initAnimation();
 window.addEventListener('resize', () => {
     initAnimation();
 });
-    // Toguna home 1 video GSAP scroll animation end////////////////////////
+    // Faizen home 1 video GSAP scroll animation end////////////////////////
 
     document.querySelectorAll(".img_anim_reveal").forEach(e => {
         let t = e.querySelector("img"),
