@@ -3,7 +3,7 @@
  * TMC PORTFOLIO - JAVASCRIPT UNIFIÉ
  * ===================================
  * Gestion centralisée des carrousels et sliders
- * pour portfolio-details-creative-slider-light.html
+ * pour details-produits.html
  */
 
 class TMCPortfolio {
